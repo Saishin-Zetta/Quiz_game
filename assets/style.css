@@ -1,0 +1,48 @@
+/* naming spots for later and cleaning up page */
+.quizz_sheet {
+    align-content: center;
+}
+/* to display or not to display */
+#question_1{
+    visibility: hidden;
+    margin:auto;
+    width: 65%;
+    display: block;
+}
+#question_2{
+    visibility: hidden;
+    margin:auto;
+    width: 65%;
+    display: block;
+}
+#question_3{
+    visibility: hidden;
+    margin:auto;
+    width: 65%;
+    display: block;
+}
+#question_4{
+    visibility: hidden;
+    margin:auto;
+    width: 65%;
+    display: block;
+}
+#question_5{
+    visibility: hidden;
+    margin:auto;
+    width: 65%;
+    display: block;
+}
+
+#scoreboard{
+    visibility: hidden;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+/* giving the button some size */
+#start_button {
+    width: 100%;
+    font-size: 50px;
+}
